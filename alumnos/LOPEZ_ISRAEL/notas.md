@@ -1,0 +1,1 @@
+Este es el primer archivo del examen de Git.
