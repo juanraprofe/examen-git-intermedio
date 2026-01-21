@@ -1,0 +1,38 @@
+On branch MAZUECOS_ANGEL
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   log_hito1.log
+	new file:   log_hito2.log
+	new file:   notas.md
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   log_hito2.log
+
+On branch MAZUECOS_ANGEL
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log_hito2.log
+
+On branch MAZUECOS_ANGEL
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log_hito2.log
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   log_hito2.log
+	modified:   notas.md
+
+On branch MAZUECOS_ANGEL
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log_hito2.log
+	modified:   notas.md
+
+b15dc68 MAZUECOS_ANGEL:añadir notas.md y modificarlo
