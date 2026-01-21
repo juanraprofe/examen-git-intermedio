@@ -1,2 +1,8 @@
 * feature-log
   main
+[feature-log 5b1ba8f] LOPEZ_ISRAEL: Modificar archivo python para imprimir mi nombre con el mismo
+ 2 files changed, 7 insertions(+)
+ create mode 100644 alumnos/LOPEZ_ISRAEL/log_hito3_2.log
+ create mode 100644 alumnos/LOPEZ_ISRAEL/log_hito4.log
+[feature-log 0c7a63e] LOPEZ_ISRAEL: Modificar el archivo python para imprimir mi nombre con el mismo
+ 1 file changed, 1 insertion(+)
