@@ -7,7 +7,7 @@ Grc-Arvl, NOMBRE
 Gmz, NOMBRE
 Gnzlz, NOMBRE
 Hgr, NOMBRE
-Lpz, NOMBRE
+Lpz, ISRAEL
 Mzcs, NOMBRE
 Mlln, NOMBRE
 Msv, NOMBRE
