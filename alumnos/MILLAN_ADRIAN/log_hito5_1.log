@@ -1,0 +1,12 @@
+amillop0811@PC111924 MINGW64 ~/Documents/examenGIT/examen-git-intermedio/alumnos/MILLAN_ADRIAN (feature-log)
+$ git stash
+Saved working directory and index state WIP on feature-log: e44aaf7 ADRIAN_MILLAN: Añadir hitos y modificar examen.py
+
+amillop0811@PC111924 MINGW64 ~/Documents/examenGIT/examen-git-intermedio/alumnos/MILLAN_ADRIAN (feature-log)
+$ git checkout main
+Switched to branch 'main'
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+amillop0811@PC111924 MINGW64 ~/Documents/examenGIT/examen-git-intermedio/alumnos/MILLAN_ADRIAN (main)
+$ code .
