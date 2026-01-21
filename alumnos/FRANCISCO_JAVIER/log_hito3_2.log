@@ -1,0 +1,10 @@
+On branch rama-locura
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   meIgnoras.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        log_hito1.log
+        log_hito2.log
+        log_hito3_1.log
