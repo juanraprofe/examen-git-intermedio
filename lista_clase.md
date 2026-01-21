@@ -11,7 +11,7 @@ Lpz, NOMBRE
 Mzcs, NOMBRE
 Mlln, NOMBRE
 Msv, NOMBRE
-Pstg, NOMBRE
+Pstg, Nestor Postigo Ruiz
 Pzs, NOMBRE
 Sntstbn, NOMBRE
 Slv, NOMBRE
