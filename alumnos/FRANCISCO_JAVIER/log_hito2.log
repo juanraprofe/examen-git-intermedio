@@ -1,0 +1,13 @@
+commit 0d2c8da902daef64ccb6a9a073409af1210b1ffa (HEAD -> main)
+Author: Francisco_Javier_Santisteban <fsanvel997@iesfuengirola1.es>
+Date:   Wed Jan 21 19:22:15 2026 +0100
+
+    FRANCISCO_JAVIER_SANTISTEBAN: Crear archivo notas y añadir texto
+
+diff --git a/alumnos/FRANCISCO_JAVIER/notas.md b/alumnos/FRANCISCO_JAVIER/notas.md
+new file mode 100644
+index 0000000..7d760f8
+--- /dev/null
++++ b/alumnos/FRANCISCO_JAVIER/notas.md
+@@ -0,0 +1 @@
++Hola me llamo Francisco Javier
