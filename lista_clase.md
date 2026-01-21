@@ -4,7 +4,7 @@ Crmn, -NOMBRE-
 Drnd, -NOMBRE-
 Spñ, -NOMBRE-
 Grc-Arvl, -NOMBRE-
-Gmz, -NOMBRE-
+Gmz, -JOHAN GOMEZ
 Gnzlz, -NOMBRE-
 Hgr, -NOMBRE-
 Lpz, -NOMBRE-

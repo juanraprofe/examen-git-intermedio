@@ -1,0 +1,27 @@
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   meIgnoras.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	log_hito1.log
+	log_hito2.log
+	log_hito3_1.log
+	log_hito3_2.log
+
+0b39146 JOSE_ESPAÑA: Commit del archivo ignorado meIgnoras.txt
+6f17d33 JOSE_ESPAÑA: Commit del archivo notas.md
+2a94819 JOSE_ESPAÑA:Primer commit del examen del archivo notas.md
+1eee3ec Update cheatsheet.txt
+88131a6 Update README.md hasta ejercicio 8
+133e273 Create assets
+27b81b8 Create notas.md
+c71a13e Create examen.py
+a0d3925 Create lista_clase.md
+8eb192b Create cheatsheet.txt
+ae21ad3 Update .gitignore
+b2ca53a Initial commit
