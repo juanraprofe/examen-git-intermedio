@@ -1,0 +1,2 @@
+En este archivo voy a ignorar
+*.txt
